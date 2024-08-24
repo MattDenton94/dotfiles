@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mattdenton94@gmail.com
+	name = Matthew Denton
